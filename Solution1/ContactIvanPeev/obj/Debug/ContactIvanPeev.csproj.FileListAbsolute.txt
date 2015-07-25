@@ -1,0 +1,9 @@
+C:\Users\ivan\documents\visual studio 2013\Projects\Solution1\ContactIvanPeev\bin\Debug\ContactIvanPeev.exe.config
+C:\Users\ivan\documents\visual studio 2013\Projects\Solution1\ContactIvanPeev\bin\Debug\ContactIvanPeev.exe
+C:\Users\ivan\documents\visual studio 2013\Projects\Solution1\ContactIvanPeev\bin\Debug\ContactIvanPeev.pdb
+C:\Users\ivan\documents\visual studio 2013\Projects\Solution1\ContactIvanPeev\obj\Debug\ContactIvanPeev.csprojResolveAssemblyReference.cache
+C:\Users\ivan\documents\visual studio 2013\Projects\Solution1\ContactIvanPeev\obj\Debug\ContactIvanPeev.Properties.Resources.resources
+C:\Users\ivan\documents\visual studio 2013\Projects\Solution1\ContactIvanPeev\obj\Debug\ContactIvanPeev.csproj.GenerateResource.Cache
+C:\Users\ivan\documents\visual studio 2013\Projects\Solution1\ContactIvanPeev\obj\Debug\ContactIvanPeev.exe
+C:\Users\ivan\documents\visual studio 2013\Projects\Solution1\ContactIvanPeev\obj\Debug\ContactIvanPeev.pdb
+C:\Users\ivan\documents\visual studio 2013\Projects\Solution1\ContactIvanPeev\obj\Debug\ContactIvanPeev.IvanContactsForm.resources
