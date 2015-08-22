@@ -1,0 +1,5 @@
+c:\users\ivan\documents\visual studio 2013\Projects\IntroProgramming\Sum1toNExample\bin\Debug\Sum1toNExample.exe.config
+c:\users\ivan\documents\visual studio 2013\Projects\IntroProgramming\Sum1toNExample\bin\Debug\Sum1toNExample.exe
+c:\users\ivan\documents\visual studio 2013\Projects\IntroProgramming\Sum1toNExample\bin\Debug\Sum1toNExample.pdb
+c:\users\ivan\documents\visual studio 2013\Projects\IntroProgramming\Sum1toNExample\obj\Debug\Sum1toNExample.exe
+c:\users\ivan\documents\visual studio 2013\Projects\IntroProgramming\Sum1toNExample\obj\Debug\Sum1toNExample.pdb

@@ -1,0 +1,11 @@
+c:\users\ivan\documents\visual studio 2013\Projects\IntroProgramming\PrimeNumberExample\bin\Debug\PrimeNumberExample.exe.config
+c:\users\ivan\documents\visual studio 2013\Projects\IntroProgramming\PrimeNumberExample\bin\Debug\PrimeNumberExample.exe
+c:\users\ivan\documents\visual studio 2013\Projects\IntroProgramming\PrimeNumberExample\bin\Debug\PrimeNumberExample.pdb
+c:\users\ivan\documents\visual studio 2013\Projects\IntroProgramming\PrimeNumberExample\obj\Debug\PrimeNumberExample.exe
+c:\users\ivan\documents\visual studio 2013\Projects\IntroProgramming\PrimeNumberExample\obj\Debug\PrimeNumberExample.pdb
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\PrimeNumberExample\bin\Debug\PrimeNumberExample.exe.config
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\PrimeNumberExample\obj\Debug\PrimeNumberExample.exe
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\PrimeNumberExample\obj\Debug\PrimeNumberExample.pdb
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\PrimeNumberExample\bin\Debug\PrimeNumberExample.exe
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\PrimeNumberExample\bin\Debug\PrimeNumberExample.pdb
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\PrimeNumberExample\obj\Debug\PrimeNumberExample.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\ivan\documents\visual studio 2013\Projects\IntroProgramming\UsingBreakOperator\bin\Debug\UsingBreakOperator.exe.config
+c:\users\ivan\documents\visual studio 2013\Projects\IntroProgramming\UsingBreakOperator\bin\Debug\UsingBreakOperator.exe
+c:\users\ivan\documents\visual studio 2013\Projects\IntroProgramming\UsingBreakOperator\bin\Debug\UsingBreakOperator.pdb
+c:\users\ivan\documents\visual studio 2013\Projects\IntroProgramming\UsingBreakOperator\obj\Debug\UsingBreakOperator.exe
+c:\users\ivan\documents\visual studio 2013\Projects\IntroProgramming\UsingBreakOperator\obj\Debug\UsingBreakOperator.pdb
