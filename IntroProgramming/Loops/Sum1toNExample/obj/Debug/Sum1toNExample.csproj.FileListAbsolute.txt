@@ -3,3 +3,9 @@ c:\users\ivan\documents\visual studio 2013\Projects\IntroProgramming\Sum1toNExam
 c:\users\ivan\documents\visual studio 2013\Projects\IntroProgramming\Sum1toNExample\bin\Debug\Sum1toNExample.pdb
 c:\users\ivan\documents\visual studio 2013\Projects\IntroProgramming\Sum1toNExample\obj\Debug\Sum1toNExample.exe
 c:\users\ivan\documents\visual studio 2013\Projects\IntroProgramming\Sum1toNExample\obj\Debug\Sum1toNExample.pdb
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\Sum1toNExample\bin\Debug\Sum1toNExample.exe.config
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\Sum1toNExample\bin\Debug\Sum1toNExample.exe
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\Sum1toNExample\bin\Debug\Sum1toNExample.pdb
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\Sum1toNExample\obj\Debug\Sum1toNExample.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\Sum1toNExample\obj\Debug\Sum1toNExample.exe
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\Sum1toNExample\obj\Debug\Sum1toNExample.pdb

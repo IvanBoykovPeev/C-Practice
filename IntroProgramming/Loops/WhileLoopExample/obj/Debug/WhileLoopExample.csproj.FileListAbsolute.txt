@@ -7,3 +7,6 @@ c:\users\ivan\documents\visual studio 2013\Projects\IntroProgramming\WhileLoopEx
 C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\WhileLoopExample\bin\Debug\WhileLoopExample.exe.config
 C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\WhileLoopExample\obj\Debug\WhileLoopExample.exe
 C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\WhileLoopExample\obj\Debug\WhileLoopExample.pdb
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\WhileLoopExample\bin\Debug\WhileLoopExample.exe
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\WhileLoopExample\bin\Debug\WhileLoopExample.pdb
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\WhileLoopExample\obj\Debug\WhileLoopExample.csprojResolveAssemblyReference.cache

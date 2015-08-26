@@ -1,0 +1,5 @@
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\SumOfTheFirstNNumbersInFibonacci\bin\Debug\SumOfTheFirstNNumbersInFibonacci.exe.config
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\SumOfTheFirstNNumbersInFibonacci\bin\Debug\SumOfTheFirstNNumbersInFibonacci.exe
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\SumOfTheFirstNNumbersInFibonacci\bin\Debug\SumOfTheFirstNNumbersInFibonacci.pdb
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\SumOfTheFirstNNumbersInFibonacci\obj\Debug\SumOfTheFirstNNumbersInFibonacci.exe
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\SumOfTheFirstNNumbersInFibonacci\obj\Debug\SumOfTheFirstNNumbersInFibonacci.pdb

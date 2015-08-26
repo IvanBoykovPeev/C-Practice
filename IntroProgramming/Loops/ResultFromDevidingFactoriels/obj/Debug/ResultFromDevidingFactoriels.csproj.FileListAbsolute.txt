@@ -1,0 +1,6 @@
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\ResultFromDevidingFactoriels\bin\Debug\ResultFromDevidingFactoriels.exe.config
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\ResultFromDevidingFactoriels\bin\Debug\ResultFromDevidingFactoriels.exe
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\ResultFromDevidingFactoriels\bin\Debug\ResultFromDevidingFactoriels.pdb
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\ResultFromDevidingFactoriels\obj\Debug\ResultFromDevidingFactoriels.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\ResultFromDevidingFactoriels\obj\Debug\ResultFromDevidingFactoriels.exe
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\ResultFromDevidingFactoriels\obj\Debug\ResultFromDevidingFactoriels.pdb

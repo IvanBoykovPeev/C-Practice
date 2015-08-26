@@ -3,3 +3,8 @@ c:\users\ivan\documents\visual studio 2013\Projects\IntroProgramming\PrintNumber
 c:\users\ivan\documents\visual studio 2013\Projects\IntroProgramming\PrintNumbers1ToN\bin\Debug\PrintNumbers1ToN.pdb
 c:\users\ivan\documents\visual studio 2013\Projects\IntroProgramming\PrintNumbers1ToN\obj\Debug\PrintNumbers1ToN.exe
 c:\users\ivan\documents\visual studio 2013\Projects\IntroProgramming\PrintNumbers1ToN\obj\Debug\PrintNumbers1ToN.pdb
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\PrintNumbers1ToN\bin\Debug\PrintNumbers1ToN.exe.config
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\PrintNumbers1ToN\bin\Debug\PrintNumbers1ToN.exe
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\PrintNumbers1ToN\bin\Debug\PrintNumbers1ToN.pdb
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\PrintNumbers1ToN\obj\Debug\PrintNumbers1ToN.exe
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\PrintNumbers1ToN\obj\Debug\PrintNumbers1ToN.pdb
