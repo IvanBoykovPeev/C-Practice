@@ -1,0 +1,5 @@
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\Cards\bin\Debug\Cards.exe.config
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\Cards\bin\Debug\Cards.exe
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\Cards\bin\Debug\Cards.pdb
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\Cards\obj\Debug\Cards.exe
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\Cards\obj\Debug\Cards.pdb
