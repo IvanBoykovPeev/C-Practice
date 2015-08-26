@@ -1,0 +1,5 @@
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\MinAndMaxNumber\bin\Debug\MinAndMaxNumber.exe.config
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\MinAndMaxNumber\bin\Debug\MinAndMaxNumber.exe
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\MinAndMaxNumber\bin\Debug\MinAndMaxNumber.pdb
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\MinAndMaxNumber\obj\Debug\MinAndMaxNumber.exe
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\MinAndMaxNumber\obj\Debug\MinAndMaxNumber.pdb
