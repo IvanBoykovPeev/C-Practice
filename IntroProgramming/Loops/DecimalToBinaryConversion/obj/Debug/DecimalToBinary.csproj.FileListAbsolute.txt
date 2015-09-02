@@ -1,0 +1,5 @@
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\DecimalToBinaryConversion\bin\Debug\DecimalToBinaryConversion.exe.config
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\DecimalToBinaryConversion\bin\Debug\DecimalToBinaryConversion.exe
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\DecimalToBinaryConversion\bin\Debug\DecimalToBinaryConversion.pdb
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\DecimalToBinaryConversion\obj\Debug\DecimalToBinaryConversion.exe
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\Loops\DecimalToBinaryConversion\obj\Debug\DecimalToBinaryConversion.pdb
