@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomArrayList", "CustomArrayList\CustomArrayList.csproj", "{8EBC1CFA-6318-4567-BBBD-946B5EE1F074}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicList", "DynamicList\DynamicList.csproj", "{89A9D19A-B75E-44E9-B120-17F7DE746D80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8EBC1CFA-6318-4567-BBBD-946B5EE1F074}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EBC1CFA-6318-4567-BBBD-946B5EE1F074}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EBC1CFA-6318-4567-BBBD-946B5EE1F074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89A9D19A-B75E-44E9-B120-17F7DE746D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A9D19A-B75E-44E9-B120-17F7DE746D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A9D19A-B75E-44E9-B120-17F7DE746D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A9D19A-B75E-44E9-B120-17F7DE746D80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
