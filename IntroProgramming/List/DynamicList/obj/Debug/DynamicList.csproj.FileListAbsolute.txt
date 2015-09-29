@@ -1,0 +1,5 @@
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\List\DynamicList\bin\Debug\DynamicList.exe.config
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\List\DynamicList\bin\Debug\DynamicList.exe
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\List\DynamicList\bin\Debug\DynamicList.pdb
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\List\DynamicList\obj\Debug\DynamicList.exe
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\List\DynamicList\obj\Debug\DynamicList.pdb
