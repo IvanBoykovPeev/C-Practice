@@ -1,0 +1,6 @@
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\PUalgoritms\Selection sort\bin\Debug\Selection sort.exe.config
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\PUalgoritms\Selection sort\bin\Debug\Selection sort.exe
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\PUalgoritms\Selection sort\bin\Debug\Selection sort.pdb
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\PUalgoritms\Selection sort\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\PUalgoritms\Selection sort\obj\Debug\Selection sort.exe
+C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\PUalgoritms\Selection sort\obj\Debug\Selection sort.pdb
