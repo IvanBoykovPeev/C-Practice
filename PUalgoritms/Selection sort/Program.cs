@@ -17,17 +17,33 @@ namespace Selection_sort
                 Console.Write(item);
             }
             Console.WriteLine();
-            Console.WriteLine("InsertionSort");
-            MyLibrary.InsertionSort(arr);
 
-            foreach (var item in arr)
-            {
-                Console.Write(item);
-            }
-            Console.WriteLine();
-            Console.WriteLine("SelectionSort");
-            MyLibrary.SelectionSort(arr);
+            //Console.WriteLine("InsertionSort");
+            //MyLibrary.InsertionSort(arr);
+            //foreach (var item in arr)
+            //{
+            //    Console.Write(item);
+            //}
+            //Console.WriteLine();
 
+            //Console.WriteLine("SelectionSort");
+            //MyLibrary.SelectionSort(arr);
+            //foreach (var item in arr)
+            //{
+            //    Console.Write(item);
+            //}
+            //Console.WriteLine();
+
+            //Console.WriteLine("BubbleSort");
+            //MyLibrary.BubbleSort(arr);
+            //foreach (var item in arr)
+            //{
+            //    Console.Write(item);
+            //}
+            //Console.WriteLine();
+
+            Console.WriteLine("ShellSort");
+            MyLibrary.ShellSort(arr);
             foreach (var item in arr)
             {
                 Console.Write(item);

@@ -52,5 +52,58 @@ namespace Selection_sort
                 }
             }
         }
+
+        public static void BubbleSort(int[] arrray)
+        {
+            bool exchange;
+            int index;
+            int rightSide;
+            int endArray = arrray.Length;
+
+            for(rightSide = endArray - 1;rightSide > 0; rightSide--)
+            {
+                exchange = false;
+                for (index = 0; index < rightSide; index++)
+                {
+                    if(arrray[index] > arrray[index + 1])
+                    {
+                        arrray.SwapElements(index, index + 1);
+                        exchange = true;
+                    }
+                    if (!exchange)
+                    {
+                        break;
+                    }
+                }
+            }
+        }
+
+        public static void ShellSort(int[] array)
+        {
+            int step;
+            int i;
+            int k;
+            int x;
+            int arrayLength = array.Length;
+
+            step = 2; //използваме редица от стъпки ... 31,15,7,3,1
+            while (step < arrayLength) step <<= 1;
+            step = step / 2 - 1;
+            while (step >= 1)
+            {
+                for (i = step; i < arrayLength; i++)
+                {
+                    x = array[i];
+                    k = i - step;
+                    while (k >= 0 && array[k] > x)
+                    {
+                        array[k + step] = array[k];
+                        k -= step;
+                    }
+                    array[k + step] = x;
+                }
+                step = step / 2;
+            }
+        }
     }
 }

@@ -7,3 +7,9 @@ C:\Users\ivan\Documents\Visual Studio 2013\Projects\IntroProgramming\PUalgoritms
 C:\Users\ivan\Documents\Visual Studio 2013\Projects\PUalgoritms\Selection sort\bin\Debug\Selection sort.exe.config
 C:\Users\ivan\Documents\Visual Studio 2013\Projects\PUalgoritms\Selection sort\obj\Debug\Selection sort.exe
 C:\Users\ivan\Documents\Visual Studio 2013\Projects\PUalgoritms\Selection sort\obj\Debug\Selection sort.pdb
+D:\Practice-C-Sharp.git\trunk\PUalgoritms\Selection sort\bin\Debug\Selection sort.exe.config
+D:\Practice-C-Sharp.git\trunk\PUalgoritms\Selection sort\obj\Debug\Selection sort.exe
+D:\Practice-C-Sharp.git\trunk\PUalgoritms\Selection sort\obj\Debug\Selection sort.pdb
+D:\Practice-C-Sharp.git\trunk\PUalgoritms\Selection sort\bin\Debug\Selection sort.exe
+D:\Practice-C-Sharp.git\trunk\PUalgoritms\Selection sort\bin\Debug\Selection sort.pdb
+D:\Practice-C-Sharp.git\trunk\PUalgoritms\Selection sort\obj\Debug\SortAlgorithms.csprojResolveAssemblyReference.cache

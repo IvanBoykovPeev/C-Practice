@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortAlgorithms", "Selection sort\SortAlgorithms.csproj", "{84E580DE-C9DF-49FB-AFEC-0E85D8618C41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZigZagMatrix", "ZigZagMatrix\ZigZagMatrix.csproj", "{11BC6C1A-5464-4ACE-A507-1E95C7182B68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{84E580DE-C9DF-49FB-AFEC-0E85D8618C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84E580DE-C9DF-49FB-AFEC-0E85D8618C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84E580DE-C9DF-49FB-AFEC-0E85D8618C41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11BC6C1A-5464-4ACE-A507-1E95C7182B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11BC6C1A-5464-4ACE-A507-1E95C7182B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11BC6C1A-5464-4ACE-A507-1E95C7182B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11BC6C1A-5464-4ACE-A507-1E95C7182B68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
